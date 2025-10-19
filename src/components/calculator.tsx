@@ -11,6 +11,11 @@ import InstallPrompt from '@/components/install-prompt';
 type Operator = '+' | '-' | '*' | '/';
 
 const funnyResponses = [
+  "Ask Chatgpt 🤨",
+  "Google it 👍",
+  "Maybe 17 or maybe 69 🤧",
+  "Math is not Mathing",
+  "Chala ja bhai 🙏",
   "Bro idk 💀",
   "Math? Nah fam.",
   "Try harder 😂",
